@@ -12,6 +12,10 @@ Note the `build.gradle.kts` is written in Kotlin DSL! How cool is that?
 
 * **Mike Plummer** of Object Partners, Inc. Many of the code examples from his slides were used to better illustrate the idioms and benefits of Kotlin: https://github.com/mike-plummer/intro-to-kotlin
 
-* The **Awesome Kotlin List** for handy links: https://github.com/KotlinBy/awesome-kotlin
+* **Sébastien Deleuze** for his work on the *Spring Framework* and for this simple Spring MVC example written in Kotlin: https://github.com/sdeleuze/spring-boot-kotlin-demo
 
-* **Dmitry Kandalov** for producing **Kotlin 99*: https://github.com/dkandalov/kotlin-99
+* The **Awesome Kotlin List** by *Dmitry Jemerov* for handy links: https://github.com/KotlinBy/awesome-kotlin
+
+* **Kotlin in Action** also by *Dmitry Jemerov*: https://www.manning.com/books/kotlin-in-action
+
+* **Dmitry Kandalov** for producing *Kotlin 99*: https://github.com/dkandalov/kotlin-99
