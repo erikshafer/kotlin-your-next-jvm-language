@@ -1,4 +1,4 @@
-package p05_ksl
+package p05_kotlinStandardLibrary
 
 fun main(args: Array<String>) {
 

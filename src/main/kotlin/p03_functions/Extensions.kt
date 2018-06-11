@@ -12,9 +12,6 @@ fun replaceMultipleWhiteSpace(value: String): String {
 
 
 
-
-
-
 //fun main(args: Array<String>) {
 //    val text = "With   multiple \t whitespace"
 //    println(replaceMultipleWhiteSpace(text))

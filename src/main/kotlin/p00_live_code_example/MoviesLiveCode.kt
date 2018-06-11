@@ -1,4 +1,4 @@
-package p01_live_code_example
+package p00_live_code_example
 
 // Data classes implemented toString, equals, and other methods.
 // Establish your constructor via parameters.
