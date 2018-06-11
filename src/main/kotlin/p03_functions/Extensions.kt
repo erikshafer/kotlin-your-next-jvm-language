@@ -11,26 +11,15 @@ fun replaceMultipleWhiteSpace(value: String): String {
 }
 
 
-
 //fun main(args: Array<String>) {
 //    val text = "With   multiple \t whitespace"
-//    println(replaceMultipleWhiteSpace(text))
+//    println(text.replaceMultipleWhiteSpace())
 //}
 //
-//fun replaceMultipleWhiteSpace(value: String): String {
+//fun String.replaceMultipleWhiteSpace(): String {
 //    var regex = Regex("\\s+")
-//    return regex.replace(value, " ")
+//    return regex.replace(this, " ")
 //}
-
-
-
-
-
-
-
-
-
-
 
 // kotlinlangorg ---> Extensions
 // Kotlin, similar to C# and Gosu, provides the ability to
